@@ -10,5 +10,6 @@ public class gitTest {
         System.out.printf("hot-fix test!");
         System.out.printf("push test");
         System.out.printf("push test2");
+         System.out.printf("pull test2");
     }
 }
